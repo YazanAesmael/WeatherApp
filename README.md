@@ -1,6 +1,6 @@
 # WeatherApp Using Kotlin and XML.
 
-![Screenshot_20220726_231153_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/97782768/221375193-5f812ce1-b9fe-450b-b489-2538372eb47d.png)
+<img width="885" alt="Screenshot 2023-02-26 003801" src="https://user-images.githubusercontent.com/97782768/221375249-3f1050e5-f4f3-468a-bbbe-87683923ac30.png">
 
 _Locating the user automatically, Calling Accu weather Api to get the weather data.
 
