@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myWeather</string>
+    <string name="tv_address">Location</string>
+    <string name="tv_updated_at">Updated At</string>
+    <string name="tvStatus">Clear Sky</string>
+    <string name="tvTemp">24°C</string>
+    <string name="tvMinTemp">Minimum Temperature</string>
+    <string name="tvMaxTemp">Maximum Temperature</string>
+    <string name="tvSunrise">Sunrise</string>
+    <string name="tvWind">wind</string>
+    <string name="tvSunset">Sunset</string>
+    <string name="tvPressure">Pressure</string>
+    <string name="tvHumidity">Humidity</string>
+    <string name="tvError">Error</string>
+</resources>
